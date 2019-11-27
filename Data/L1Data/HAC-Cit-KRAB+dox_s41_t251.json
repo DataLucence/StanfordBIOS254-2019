@@ -1,1 +1,1 @@
-{"axes": ["XYC"], "channels": ["DIC", "YFP", "RFP"]}
+{"axes": ["CXY"], "channels": ["DIC", "YFP", "RFP"], "pixel_size": ["1","1"], "data": ["01/01/2019"], "image_preprocessing":["none"]}
