@@ -1,5 +1,6 @@
 # StanfordBIOS254-2019
-DataLucence-BIOS254: Stanford 2019 course offering and material
+DataLucence-BIOS254: Stanford 2019 
+This course consists of 6 lessons, 4 live-coding sessions and 2 open studio sessions
 
 
 ############
