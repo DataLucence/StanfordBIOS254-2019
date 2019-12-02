@@ -1,7 +1,9 @@
 # StanfordBIOS254-2019
 DataLucence-BIOS254: Stanford 2019 
 This course consists of 6 lessons, 4 live-coding sessions and 2 open studio sessions
-
+Tested on: 
+Python 3.5.3
+Python 3.6.1
 
 ############
 About the data (Courtesey of Dr. Bintu):
